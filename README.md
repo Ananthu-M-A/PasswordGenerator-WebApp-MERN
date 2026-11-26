@@ -1,6 +1,6 @@
 # Password Generator Online
 
-![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-Proprietary-blue)
+![license](https://img.shields.io/badge/license-Proprietary-blue)
 
 ## About
 
