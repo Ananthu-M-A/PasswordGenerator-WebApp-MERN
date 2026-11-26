@@ -53,4 +53,4 @@ This project is licensed under a proprietary license.  Commercial use requires e
 
 - GitHub: [Ananthu-M-A](https://github.com/Ananthu-M-A)
 - Portfolio: [https://ananthuma.com](https://ananthuma.com)
-- Email: ananthumapookkad@gmail.com
+- Email: me@ananthuma.com
